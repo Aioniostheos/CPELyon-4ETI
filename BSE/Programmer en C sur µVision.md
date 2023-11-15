@@ -1,4 +1,4 @@
-# Programmation en C sur µVision 5
+# Programmer en C sur µVision 5
 
 | Module | Base des Systèmes Embarqués - BSE |
 |:------:|-----------------------------------|
