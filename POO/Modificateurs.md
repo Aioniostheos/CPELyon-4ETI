@@ -37,7 +37,7 @@ Dans l'exemple précédent, seuls les fichiers `Animal.java` et `UnEnum.java` on
 ### `private`
 Le mot-clé `private` signale qu'un attribut (ou méthode) ne doit pas être accessible en dehors de la classe.
 
-Le Java étant un langage orienté objet, les sous-classes (ou classes internes) sont considérés comme des attributs de la classe.
+Le Java étant un langage orienté objet, les classes internes sont considérés comme des attributs de la classe.
 Elles ont donc accès aux attributs marqués privés.
 
 **Attention**, cela n'est pas réciproque : un attribut privé d'une sous-classe n'est pas accessible dans la classe principale.
